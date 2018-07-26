@@ -96,6 +96,7 @@ div.transbox p {
   position: fixed; /* Set the navbar to fixed position */
   top: 0;
   width: 100%;
+  z-index: 4;
 }
 
 /* Links inside the navbar */
