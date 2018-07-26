@@ -263,6 +263,9 @@ a:active {
   font-size: 80px;
 }
 
+ul, li {
+    padding-right: 40px;
+}
 
 .read-more-state {
   display: none;
